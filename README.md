@@ -82,9 +82,10 @@ Custom archive format implementation with layered compression and encryption arc
 
 ### Robotics and Simulation
 <p>
-<img src="https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gymnasium-555555?style=for-the-badge" style="margin-right:8px;"/>
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-000000?style=for-the-badge" style="margin-right:8px;"/>
+<img src="https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge" style="margin-right:8px;"/>
 <img src="https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Robotics-0A66C2?style=for-the-badge"/>
 </p>
 
 ### Backend and Infrastructure
