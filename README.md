@@ -1,112 +1,139 @@
-<h1 align="center">Hi 👋, I'm Aditya Guha</h1>
-<h3 align="center">AI Engineer | Machine Learning Enthusiast | Robotics & AI Systems Developer</h3>
-
-## 🚀 About Me
-
-💻 AI & Machine Learning enthusiast passionate about building real-world intelligent systems  
-🤖 Specialized in **AI Integration, Machine Learning, Robotics, Computer Vision, and Local LLM Infrastructure**  
-🔬 Former Research Intern at **DRDO (Defence Research and Development Organisation), Pune**
-
-🧠 **DRDO Project:**  
-Reinforcement Learning (CRL) Based Quadruped Handstand & Footstand using **MuJoCo and JAX**
-
-⚡ I focus on building:
-
-- Multimodal AI Agents  
-- Local LLM infrastructure  
-- AI-powered automation systems  
-- Computer Vision applications  
-- Robotics simulation and control systems  
-- Privacy-focused self-hosted AI solutions  
+<h1 align="center">Aditya Guha</h1>
+<h3 align="center">Artificial Intelligence Engineer | Machine Learning | Robotics | AI Systems Developer</h3>
 
 ---
 
-## 🧠 Current Projects
+## Professional Summary
 
-- 🤖 NeuroCourier — Multimodal Telegram AI Agent using local LLMs
-- 🧠 Anti-Cheat Engine — AI-powered exam proctoring system (Computer Vision)
-- ⚙️ Local LLM Server — FastAPI backend for local model inference
-- 💾 Encrypted NAS Server — Fully self-hosted secure storage infrastructure
-- 🗜️ MiniZIP++ — Custom archiver with compression and encryption layer
-- 🚗 YOLOv8 Vehicle Detection System
+I am a Computer Science Engineer specializing in Artificial Intelligence and Machine Learning, with a strong focus on designing and implementing intelligent systems that integrate AI into real-world applications. My work spans Machine Learning, Computer Vision, Robotics, and Local Large Language Model (LLM) infrastructure.
 
----
+I am particularly interested in building privacy-focused, scalable AI systems, developing self-hosted AI infrastructure, Computer hardware & architecture and advancing intelligent automation through robust backend and AI integration.
 
-## 🌱 Currently Learning
-
-- Advanced Deep Learning  
-- LLM optimization and inference acceleration  
-- Robotics AI control systems  
-- Distributed AI infrastructure  
-- GPU acceleration (CUDA, vLLM, llama.cpp)
+I have research experience at the Defence Research and Development Organisation (DRDO), where I worked on reinforcement learning–based robotics control systems using advanced simulation environments.
 
 ---
 
-## 🛠️ Tech Stack
+## Research Experience
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Defence Research and Development Organisation (DRDO), Pune**  
+*Research Intern*
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
+**Project:** Reinforcement Learning Based Quadruped Handstand and Footstand using MuJoCo and JAX
 
-### Backend & Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-### AI Infrastructure
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge)
-![JAX](https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge)
+- Developed reinforcement learning control strategies for quadruped robotic balance and posture stabilization
+- Worked with MuJoCo physics simulation environment for robotics modeling
+- Implemented and analyzed control policies using JAX-based reinforcement learning frameworks
+- Contributed to robotics AI research involving simulation-driven learning and control optimization
 
 ---
 
-## 📊 GitHub Stats
+## Technical Interests
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGuha&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGuha&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGuha&layout=compact&theme=tokyonight"/>
-</p>
+- Artificial Intelligence System Design and Integration  
+- Machine Learning and Deep Learning  
+- Robotics and Reinforcement Learning  
+- Computer Vision Systems  
+- Local Large Language Model (LLM) Infrastructure  
+- AI Backend Architecture and Deployment  
+- Privacy-focused and Self-hosted AI Systems  
+- Intelligent Automation and AI-driven Applications  
 
 ---
 
+## Selected Projects
+
+**NeuroCourier**  
+Multimodal AI agent supporting text and image input using locally deployed LLMs, designed for privacy-focused intelligent interaction. Can be accessed using Telegram Bot & WhatsApp Chat.
+
+**Anti-Cheat Engine**  
+Computer vision–based AI proctoring system using face detection, gaze tracking, and behavioral monitoring to ensure examination integrity.
+
+**Local LLM Server**  
+Backend infrastructure built with FastAPI to serve locally hosted large language models via structured APIs.
+
+**Encrypted Network Attached Storage (NAS)**  
+Fully encrypted, self-hosted NAS infrastructure with secure multi-user access across platforms.
+
+**YOLOv8 Vehicle Detection System**  
+Custom-trained object detection model for real-world vehicle classification and detection.
+
+**MiniZIP++ Archiver System**  
+Custom archive format implementation with layered compression and encryption architecture in C++.
+
+---
+
+## Technical Skills
+
+**Programming Languages**  
+Python, C++, JavaScript
+
+**Artificial Intelligence and Machine Learning**  
+PyTorch, Computer Vision, Reinforcement Learning, YOLO, MediaPipe, OpenCV
+
+**Robotics and Simulation**  
+MuJoCo, Reinforcement Learning Systems, Robotics Simulation
+
+**Backend and Infrastructure**  
+FastAPI, Linux Systems, API Design, Self-hosted AI Infrastructure
+
+**AI Infrastructure and Systems**  
+Ollama, Local LLM Deployment, AI Backend Architecture, GPU Inference Systems
+
+---
+
+## Professional Goals
+
+My objective is to contribute to the development of advanced AI systems, robotics intelligence, and scalable machine learning infrastructure, with a focus on solving real-world engineering problems through intelligent system design.
+
+I am particularly interested in opportunities involving:
+
+- AI Systems Engineering  
+- Robotics AI and Reinforcement Learning  
+- Machine Learning Infrastructure  
+- Applied Artificial Intelligence Research  
+
+---
+
+## Technical Content Creation
+
+I actively create and publish technical content focused on Artificial Intelligence, Machine Learning, Computer Systems, and Software Engineering. My content includes system implementations, educational tutorials, and practical engineering insights.
+
+Platforms include:
+
+- YouTube  
+- LinkedIn  
+- Medium  
+- Instagram  
+
+My objective is to contribute to the global technical community by sharing practical knowledge and real-world engineering experience.
+
+---
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/AdityaGuha">
+<a href="https://github.com/AdityaGuhaa">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/adityaguha1/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://linktr.ee/aitoolsbyadityaguha">
+<a href="https://linktr.ee/AdityaGuha">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://www.youtube.com/@adityaguha">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## ⚡ Fun Fact
+Aditya Guha  
+Artificial Intelligence Engineer
 
-I build powerful AI systems using local hardware, self-hosted infrastructure, and custom backend architectures.
+adityaaguha@gmail.com
 
----
-
-⭐ From Aditya Guha — Building the future with AI
++91 7304748055
