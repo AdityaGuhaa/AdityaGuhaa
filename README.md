@@ -64,20 +64,44 @@ Custom archive format implementation with layered compression and encryption arc
 
 ## Technical Skills
 
-**Programming Languages**  
-Python, C++, JavaScript
+### Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**Artificial Intelligence and Machine Learning**  
-PyTorch, Computer Vision, Reinforcement Learning, YOLO, MediaPipe, OpenCV
+### Artificial Intelligence and Machine Learning
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-000000?style=for-the-badge"/>
+</p>
 
-**Robotics and Simulation**  
-MuJoCo, Reinforcement Learning Systems, Robotics Simulation
+### Robotics and Simulation
+<p>
+<img src="https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Robotics-0A66C2?style=for-the-badge"/>
+</p>
 
-**Backend and Infrastructure**  
-FastAPI, Linux Systems, API Design, Self-hosted AI Infrastructure
+### Backend and Infrastructure
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/API%20Development-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Self%20Hosted%20Systems-3C873A?style=for-the-badge"/>
+</p>
 
-**AI Infrastructure and Systems**  
-Ollama, Local LLM Deployment, AI Backend Architecture, GPU Inference Systems
+### AI Infrastructure and Systems
+<p>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Deployment-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GPU%20Inference-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Backend%20Architecture-2C2C2C?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -91,6 +115,16 @@ I am particularly interested in opportunities involving:
 - Robotics AI and Reinforcement Learning  
 - Machine Learning Infrastructure  
 - Applied Artificial Intelligence Research  
+
+---
+
+### Hardware and Systems
+<p>
+<img src="https://img.shields.io/badge/Computer%20Architecture-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NAS%20Systems-0096FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Self%20Hosted%20Infrastructure-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux%20Server-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
@@ -108,7 +142,7 @@ Platforms include:
 My objective is to contribute to the global technical community by sharing practical knowledge and real-world engineering experience.
 
 ---
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://github.com/AdityaGuhaa">
