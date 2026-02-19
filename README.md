@@ -9,7 +9,7 @@ I am a Computer Science Engineer specializing in Artificial Intelligence and Mac
 
 I am particularly interested in building privacy-focused, scalable AI systems, developing self-hosted AI infrastructure, Computer hardware & architecture and advancing intelligent automation through robust backend and AI integration.
 
-I have research experience at the Defence Research and Development Organisation (DRDO), where I worked on reinforcement learning–based robotics control systems using advanced simulation environments.
+I have research experience at the Defence Research and Development Organisation (DRDO), where I worked on reinforcement learning based robotics control systems using advanced simulation environments.
 
 ---
 
