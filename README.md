@@ -1,7 +1,6 @@
 <h1 align="center">Aditya Guha</h1>
 <h3 align="center">Artificial Intelligence Engineer | Machine Learning | Robotics | AI Systems Developer</h3>
 
----
 
 ## Professional Summary
 
@@ -11,7 +10,6 @@ I am particularly interested in building privacy-focused, scalable AI systems, d
 
 I have research experience at the Defence Research and Development Organisation (DRDO), where I worked on reinforcement learning based robotics control systems using advanced simulation environments.
 
----
 
 ## Research Experience
 
@@ -25,7 +23,6 @@ I have research experience at the Defence Research and Development Organisation 
 - Implemented and analyzed control policies using JAX-based reinforcement learning frameworks
 - Contributed to robotics AI research involving simulation-driven learning and control optimization
 
----
 
 ## Technical Interests
 
@@ -38,7 +35,6 @@ I have research experience at the Defence Research and Development Organisation 
 - Privacy-focused and Self-hosted AI Systems  
 - Intelligent Automation and AI-driven Applications  
 
----
 
 ## Selected Projects
 
@@ -60,7 +56,6 @@ Custom-trained object detection model for real-world vehicle classification and 
 **MiniZIP++ Archiver System**  
 Custom archive format implementation with layered compression and encryption architecture in C++.
 
----
 
 ## Technical Skills
 
@@ -104,7 +99,6 @@ Custom archive format implementation with layered compression and encryption arc
 <img src="https://img.shields.io/badge/AI%20Backend%20Architecture-2C2C2C?style=for-the-badge"/>
 </p>
 
----
 
 ## Professional Goals
 
@@ -117,7 +111,6 @@ I am particularly interested in opportunities involving:
 - Machine Learning Infrastructure  
 - Applied Artificial Intelligence Research  
 
----
 
 ### Hardware and Systems
 <p>
@@ -127,7 +120,6 @@ I am particularly interested in opportunities involving:
 <img src="https://img.shields.io/badge/Linux%20Server-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
 
 ## Technical Content Creation
 
@@ -142,7 +134,7 @@ Platforms include:
 
 My objective is to contribute to the global technical community by sharing practical knowledge and real-world engineering experience.
 
----
+
 ## Connect With Me
 
 <p align="left">
@@ -164,7 +156,6 @@ My objective is to contribute to the global technical community by sharing pract
 
 </p>
 
----
 
 Aditya Guha  
 Artificial Intelligence Engineer
