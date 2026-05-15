@@ -14,7 +14,7 @@ I have research experience at the Defence Research and Development Organisation 
 ## Research Experience
 
 **Defence Research and Development Organisation (DRDO), Pune**  
-*Robotics Research Intern*
+*Robotics & Machine Learning Research Intern*
 
 **Project:** Reinforcement Learning Based Quadruped Handstand and Footstand using MuJoCo and JAX
 
