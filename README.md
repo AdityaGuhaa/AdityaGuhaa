@@ -158,7 +158,7 @@ My objective is to contribute to the global technical community by sharing pract
 
 
 Aditya Guha  
-Artificial Intelligence Engineer
+Robotics & Artificial Intelligence / Machine Learning Engineer
 
 adityaaguha@gmail.com
 
