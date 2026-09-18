@@ -16,9 +16,7 @@
 
 ### Currently
 
-- Building the scanner module for **MacBenchForge**, a macOS Apple Silicon GPU benchmarking tool
-- Final-year B.Tech CSE (AI & ML), graduating 2026
-- Job hunting for full-time AI Engineer / Applied AI Developer roles (Pune, remote)
+- Job hunting for full-time AI Engineer / Applied AI Developer & Robotics Engineer roles (Pune, Mumbai, Banglore, remote)
 
 ---
 
