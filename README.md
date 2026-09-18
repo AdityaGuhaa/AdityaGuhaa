@@ -22,7 +22,7 @@
 
 ## About
 
-Final-year AI & ML engineer with hands-on research at DRDO on reinforcement learning for quadruped robotics, and a track record of shipping local-first AI systems end to end, agentic assistants, LLM inference servers, and custom benchmarking tools built in C++ and Python. I care about privacy-focused, self-hosted AI infrastructure and getting real performance out of consumer hardware. Outside of core dev work, I run a freelance computer consultancy and create AI/dev-focused content for Instagram and YouTube.
+Just graduated AI & ML engineer with hands-on research at DRDO on reinforcement learning for quadruped robotics, and a track record of shipping local-first AI systems end to end, agentic assistants, LLM inference servers, and custom benchmarking tools built in C++ and Python. I care about privacy-focused, self-hosted AI infrastructure and getting real performance out of consumer hardware. Outside of core dev work, I run a freelance computer consultancy and create AI/dev-focused content for Instagram and YouTube.
 
 ## Experience
 
