@@ -53,13 +53,10 @@ Local-first ReAct agentic AI assistant. FastAPI backend with SSE streaming, llam
 Local image generation stack: FastAPI + llama.cpp (Gemma, Metal GPU) + ComfyUI running headless on a MacBook Pro M1 Pro, with one-command install and launch scripts.
 
 ### BenchForge
-Open-source C++ GPU/CPU benchmarking tool for Windows, built and tuned against an RTX 4050. *(add repo link)*
+Open-source C++ GPU/CPU benchmarking tool for Windows, built and tuned against an RTX 4050.
 
 ### MacBenchForge
-Companion benchmarking tool for macOS Apple Silicon, using IOKit for GPU detection. *(add repo link)*
-
-### SwachNet
-Automated road-littering detection and e-Challan system using YOLOv8, PaddleOCR, and FastAPI. In progress. *(add repo link)*
+Companion benchmarking tool for macOS Apple Silicon, using IOKit for GPU detection.
 
 ### Anti-Cheat Examination Engine
 Final-year project: multimodal AI proctoring system combining MediaPipe face/gaze tracking, YOLOv8, and CNN-based audio analysis for exam integrity monitoring. *(add repo link)*
